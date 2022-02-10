@@ -5,6 +5,6 @@
 <p></p>
 <code>🔌</code> | Always changing
 <p></p>
-<code>📒</code> | CHeck out our Discord server and Twitter Account
+<code>📒</code> | Check out our Discord server and Twitter Account
 <p></p>
 <code>🔰</code> | See you next time
