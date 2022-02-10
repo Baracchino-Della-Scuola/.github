@@ -1,10 +1,10 @@
 # Il baracchino della scuola
-`🌱` | Studying development
+<code>🌱</code> | Studying development
 <p></p>
 <code>🔥</code> | Trying to turn the school to a bettter place
 <p></p>
-`🔌`ì | Always changing
+<code>🔌</code> | Always changing
 <p></p>
-`📒` | CHeck out our Discord server and Twitter Account
+<code>📒</code> | CHeck out our Discord server and Twitter Account
 <p></p>
-`🔰` | See you next time
+<code>🔰</code> | See you next time
