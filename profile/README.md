@@ -1,2 +1,6 @@
 # Il baracchino della scuola
-Associazione che promuove la copiatura e crea nuovi metodi.
+`🌱` | Studying development
+`🔥` | Trying to turn the school to a bettter place
+`🔌` | Always changing
+`📒` | CHeck out our Discord server and Twitter Account
+`🔰` | See you next time
